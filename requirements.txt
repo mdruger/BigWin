@@ -1,0 +1,7 @@
+python 3.4
+unittest2
+mock
+collections
+pprint
+random
+setuptools
